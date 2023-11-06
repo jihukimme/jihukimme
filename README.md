@@ -48,8 +48,8 @@
 - [jihu0210@naver.com]
   
 ## 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mimijae&show_icons=true&theme=radical&locale=en&layout=compact" alt="mimijae" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jihukimme&show_icons=true&theme=radical&locale=en&layout=compact" alt="jihukimme" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mimijae&show_icons=true&theme=radical&locale=en" alt="mimijae" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jihukimme&show_icons=true&theme=radical&locale=en" alt="jihukimme" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mimijae&theme=dark" alt="mimijae" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jihukimme&theme=dark" alt="jihukimme" /></p>
