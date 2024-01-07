@@ -5,7 +5,7 @@
 <h2 style="display: inline-block; vertical-align: middle;">📌소개</h2>
 
 - 계명대학교 컴퓨터공학부 컴퓨터공학전공에 재학중인 김지후 입니다.
-- 프론트엔드 개발에 흥미를 느끼고있는 학생입니다.
+- 웹 개발에 흥미를 느끼고있는 학생입니다.
 
 <h2 style="display: inline-block; vertical-align: middle;">🚀운영중인 서비스</h2>
 
