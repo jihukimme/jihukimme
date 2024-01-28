@@ -15,7 +15,7 @@
 
 <h2 style="display: inline-block; vertical-align: middle;">💼프로젝트 포트폴리오</h2>
 
-- [오프라인의 감성과 온라인의 편리함을 결합한 패션 플랫폼] - REACT, HTML, CSS, JAVA SCRIPT
+- [오프라인의 감성과 온라인의 편리함을 결합한 패션 플랫폼] - React, HTML, CSS, JavaSript
   - [https://github.com/TEAM-WARA/ON-OFF]  
 - [오프라인 회원제 식료품점 데이터베이스 및 응용 프로그램] - C# Winform, ORACLE
   - [https://github.com/jihukimme/DataBaseProgramming_FinalProject]  
