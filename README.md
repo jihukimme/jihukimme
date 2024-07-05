@@ -60,6 +60,8 @@
 
 [[대한전자공학회 2023년도 추계종합학술대회](https://conf.theieie.org/2023f/)]
 - [딥보이스를 이용한 보이스피싱의 대응방안을 위한 음성 주파수 분석]
+[[한국정보기술학회 2024년도 하계종합학술대회](https://ki-it.or.kr/conference/2024)]
+- [소상공인을 위한 온-오프라인 통합 패션 플랫폼 구현]
 
 
 <h2 style="display: inline-block; vertical-align: middle;">🎞경력</h2>
@@ -69,7 +71,8 @@
 
 <h2 style="display: inline-block; vertical-align: middle;">🏆수상</h2>
 
-- [4차 산업혁명 기반] 2023년 창의융합인재양성 공모전 우수상
+- [4차 산업혁명 기반] 2023년 창의융합인재양성 공모전 우수상(금상)
+- [소상공인을 위한 온-오프라인 통합 패션 플랫폼 구현] 2024년 한국정보기술학회 하계종합학술대회 우수논문상(은상)
 
   
 <h2 style="display: inline-block; vertical-align: middle;">🖋개인 블로그</h2>
