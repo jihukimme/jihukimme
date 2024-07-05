@@ -58,10 +58,10 @@
   
 <h2 style="display: inline-block; vertical-align: middle;">📜논문 연구 개발 프로젝트</h2>
 
-[[대한전자공학회 2023년도 추계종합학술대회](https://conf.theieie.org/2023f/)]
-- [딥보이스를 이용한 보이스피싱의 대응방안을 위한 음성 주파수 분석]
-[[한국정보기술학회 2024년도 하계종합학술대회](https://ki-it.or.kr/conference/2024)]
-- [소상공인을 위한 온-오프라인 통합 패션 플랫폼 구현]
+- [[대한전자공학회 2023년도 추계종합학술대회](https://conf.theieie.org/2023f/)]  
+  - [딥보이스를 이용한 보이스피싱의 대응방안을 위한 음성 주파수 분석]
+- [[한국정보기술학회 2024년도 하계종합학술대회](https://ki-it.or.kr/conference/2024)]  
+  - [소상공인을 위한 온-오프라인 통합 패션 플랫폼 구현]
 
 
 <h2 style="display: inline-block; vertical-align: middle;">🎞경력</h2>
