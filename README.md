@@ -14,10 +14,11 @@
 
 
 <h2 style="display: inline-block; vertical-align: middle;">💼프로젝트 포트폴리오</h2>
-
+- [스타트업 인재 매칭 플랫폼, 스매칭] - React, HTML, CSS, JavaScript
+  - [https://github.com/WARA-United/Venture-Startup-Hackathon]
 - [사용자들과 웃음을 공유하는 저장소, SmileHub] - SpringBoot, React, HTML, CSS, JavaScript
   - [https://github.com/MangoWafflee]
-- [오프라인의 감성과 온라인의 편리함을 결합한 패션 플랫폼] - React, HTML, CSS, JavaSript
+- [오프라인의 감성과 온라인의 편리함을 결합한 패션 플랫폼, On&Off] - React, HTML, CSS, JavaSript
   - [https://github.com/TEAM-WARA/ON-OFF]  
 - [오프라인 회원제 식료품점 데이터베이스 및 응용 프로그램] - C# Winform, ORACLE
   - [https://github.com/jihukimme/DataBaseProgramming_FinalProject]  
@@ -61,9 +62,9 @@
 <h2 style="display: inline-block; vertical-align: middle;">📜논문 연구 개발 프로젝트</h2>
 
 - [[대한전자공학회 2023년도 추계종합학술대회](https://conf.theieie.org/2023f/)]  
-  - [딥보이스를 이용한 보이스피싱의 대응방안을 위한 음성 주파수 분석]
+  - [딥보이스를 이용한 보이스피싱의 대응방안을 위한 음성 주파수 분석](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11701410)
 - [[한국정보기술학회 2024년도 하계종합학술대회](https://ki-it.or.kr/conference/2024)]  
-  - [소상공인을 위한 온-오프라인 통합 패션 플랫폼 구현]
+  - [소상공인을 위한 온-오프라인 통합 패션 플랫폼 구현](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11825721)
 
 
 <h2 style="display: inline-block; vertical-align: middle;">🎞경력</h2>
