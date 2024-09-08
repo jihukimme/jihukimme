@@ -13,23 +13,27 @@
 
 <div>
   <!-- Programming Languages -->
-  <h3>Programming Languages</h3>
+  <h4>Programming Languages</h4>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <br>
+
+  <!-- Web Technologies -->
+  <h4>Web Technologies</h4>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <br>
   
   <!-- Framework/Library -->
-  <h3>Framework/Library</h3>
+  <h4>Framework/Library</h4>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <br>
 
   <!-- Server/Database -->
-  <h3>Server/Database</h3>
+  <h4>Server/Database</h4>
   <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=white">
@@ -38,20 +42,20 @@
   <br>
 
   <!-- Tooling/DevOps -->
-  <h3>Tooling/DevOps</h3>
+  <h4>Tooling/DevOps</h4>
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <br>
 
   <!-- Environment -->
-  <h3>Environment</h3>
+  <h4>Environment</h4>
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <br>
 
   <!-- ETC -->
-  <h3>ETC</h3>
+  <h4>ETC</h4>
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <br>
 </div>
