@@ -53,6 +53,8 @@
 
 ## 💼 프로젝트 포트폴리오
 
+- **사용자들과 클릭 수로 경쟁하는 캐쥬얼 게임, ClickMeee** - SpringBoot, TypeScript, Vite, Tailwind CSS, WebSocket(STOMP)
+  - (https://github.com/ClickMeee)
 - **스타트업 인재 매칭 플랫폼, 스매칭** - React, HTML, CSS, JavaScript
   - (https://github.com/WARA-United/Venture-Startup-Hackathon)
 - **사용자들과 웃음을 공유하는 저장소, SmileHub** - SpringBoot, React, HTML, CSS, JavaScript
