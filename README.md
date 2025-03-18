@@ -7,6 +7,12 @@
 
 ---
 
+## 🎞 이력
+
+- **_(추후 업데이트)_**
+
+---
+
 ## 🛠 기술 스택
 
 ### Programming Languages
@@ -71,12 +77,6 @@
 - **[대한전자공학회 2023년도 추계종합학술대회](https://conf.theieie.org/2023f/)** - 딥보이스를 이용한 보이스피싱의 대응방안을 위한 음성 주파수 분석  
   - (https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11701410)
   
----
-
-## 🎞 경력
-
-- **_(추후 업데이트)_**
-
 ---
 
 ## 🏆 수상
