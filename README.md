@@ -111,11 +111,10 @@
 
 ## 📊 GitHub Stats
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=jihukimme&show_icons=true&theme=radical&cache_seconds=7200" alt="jihukimme's GitHub stats" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=jihukimme&layout=compact&theme=radical&cache_seconds=7200" alt="jihukimme's Top Languages" />
-
-<img height="160" src="https://streak-stats.demolab.com?user=jihukimme&theme=radical&date_format=%5BY.%5Dn.j&cache_seconds=7200" alt="jihukimme's GitHub streak" />
+<div style="display: flex; flex-wrap: wrap;">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jihukimme&show_icons=true&theme=radical&cache_seconds=7200" alt="jihukimme's GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=jihukimme&layout=compact&theme=radical&cache_seconds=7200" alt="jihukimme's Top Languages" />
+</div>
 
 ---
 
