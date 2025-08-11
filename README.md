@@ -24,6 +24,7 @@
 
 ### 📚 Frameworks / Libraries
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![LangChain](https://img.shields.io/badge/langchain-1A1A1A?style=for-the-badge&logo=chainlink&logoColor=white)
 
