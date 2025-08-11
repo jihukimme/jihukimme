@@ -115,7 +115,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=jihukimme&show_icons=true&theme=radical&locale=en" alt="jihukimme" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jihukimme&theme=dark" alt="jihukimme" />
+<img src="https://streak-stats.demolab.com/?user=jihukimme&theme=dark" alt="jihukimme" />
 
 
 ---
