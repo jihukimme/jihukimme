@@ -111,12 +111,11 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jihukimme&show_icons=true&theme=radical&locale=en&layout=compact" alt="jihukimme" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=jihukimme&show_icons=true&theme=radical&cache_seconds=7200" alt="jihukimme's GitHub stats" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=jihukimme&show_icons=true&theme=radical&locale=en" alt="jihukimme" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=jihukimme&layout=compact&theme=radical&cache_seconds=7200" alt="jihukimme's Top Languages" />
 
-<img src="https://streak-stats.demolab.com/?user=jihukimme&theme=dark" alt="jihukimme" />
-
+<img height="160" src="https://streak-stats.demolab.com?user=jihukimme&theme=radical&date_format=%5BY.%5Dn.j&cache_seconds=7200" alt="jihukimme's GitHub streak" />
 
 ---
 
