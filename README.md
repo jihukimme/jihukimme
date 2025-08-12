@@ -47,11 +47,11 @@
 
 ## 💼 Projects
 
-- **챗봇 기반 개인화 학습 지원 플랫폼, PersonaBook**  
-  - 교재(PDF) 기반 맞춤형 문제 생성과 오답 피드백을 제공하는 AI 챗봇 서비스  
+- **챗봇 기반 개인화 학습 지원 서비스, PersonaBook**
+  - 교재(PDF) 기반 맞춤형 문제 생성과 오답 피드백을 제공하는 챗봇 기반 개인화 학습 지원 서비스
   - [Repository](https://github.com/PersonaBook)
-- **XML 기반 설정으로 구현한 레거시 쇼핑몰, ThanksLab**  
-  - XML 기반 Spring Framework로 구현한 전자상거래 쇼핑몰 서비스  
+- **XML 기반 설정으로 구현한 레거시 쇼핑몰, ThanksLab**
+  - XML 기반 Spring Framework로 구현한 전자상거래 쇼핑몰 서비스
   - [Repository](https://github.com/THANKSRAP)
 - **사용자들과 클릭 수로 경쟁하는 캐쥬얼 게임, ClickMeee**  
   - 실시간 클릭 경쟁을 통해 랭킹을 겨루는 캐주얼 웹 게임  
