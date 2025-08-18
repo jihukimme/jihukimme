@@ -82,6 +82,8 @@
   - [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11825721)
 - **[대한전자공학회 2023년도 추계종합학술대회](https://conf.theieie.org/2023f/)** : 딥보이스를 이용한 보이스피싱의 대응방안을 위한 음성 주파수 분석  
   - [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11701410)
+- **[대한전자공학회 2023년도 추계종합학술대회](https://conf.theieie.org/2023f/)** : 마이크로 서비스 아키텍처 설계 및 구축을 위한 가상화 기술별 성능 비교 분석
+  - [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11701299)
   
 ---
 
