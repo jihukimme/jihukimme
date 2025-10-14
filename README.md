@@ -46,6 +46,8 @@
 
 ## 💼 Projects
 
+- **동적 워크플로우 자동화 플랫폼, FlowWeaver**
+  - RAG 기반 블로그 콘텐츠 자동 생성 및 발행 등 비즈니스 프로세스를 자동화할 수 있는 확장형 워크플로우 오케스트레이션 플랫폼
 - **챗봇 기반 개인화 학습 지원 서비스, PersonaBook**
   - 교재(PDF) 기반 맞춤형 문제 생성과 오답 피드백을 제공하는 챗봇 기반 개인화 학습 지원 서비스
   - [Repository](https://github.com/PersonaBook)
