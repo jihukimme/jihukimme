@@ -62,10 +62,10 @@
   - AI 기반 자동화 트렌드에 맞추어 다양한 비즈니스 프로세스를 자동화할 수 있는 확장 가능한 워크플로우 관리 플랫폼
   - [Repository](https://github.com/FlowWeaver)
 - **AI 챗봇 기반 개인화 학습 지원 서비스, PersonaBook**
-  - 사용자가 업로드한 교재(PDF)를 기반으로, 개인의 학습 상황(이해도)에 맞춘 문제 생성, 오답 피드백, 개념 설명 등을 제공하는 AI 챗봇 기반 개인화 학습 지원 서비스
+  - 사용자가 업로드한 교재(PDF)를 기반으로, 개인의 이해도에 맞춘 문제 생성, 개념 설명 등을 제공하는 AI 챗봇 기반 개인화 학습 지원 서비스
   - [Repository](https://github.com/PersonaBook)
 - **XML 기반 설정을 통해 Legacy 구조로 구현한 쇼핑몰, ThanksLab**
-  - Spring Boot의 자동 설정에 의존하지 않고, XML 기반으로 DispatcherServlet 및 Bean을 등록 등을 직접 설정하며 Spring Framework의 핵심 동작 원리를 탐구한 Legacy 구조의 쇼핑몰 프로젝트
+  - Spring Boot의 자동 설정에 의존하지 않고, XML 기반으로 직접 설정하며 Spring Framework의 동작 원리를 탐구한 Legacy 구조의 프로젝트
   - [Repository](https://github.com/THANKSRAP)
 - **사용자들과 클릭 수로 경쟁하는 캐쥬얼 게임, ClickMeee**  
   - 다수의 사용자가 동시에 참여해 실시간으로 클릭 경쟁으로 랭킹을 겨루는 WebSocket 기반 캐주얼 웹 게임  
