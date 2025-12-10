@@ -58,27 +58,27 @@
 
 ## 💼 Projects
 
-- **동적 워크플로우 관리 플랫폼, FlowWeaver**
+- **FlowWeaver | 동적 워크플로우 자동화 플랫폼**
   - AI 기반 자동화 트렌드에 맞추어 다양한 비즈니스 프로세스를 자동화할 수 있는 확장 가능한 워크플로우 관리 플랫폼
   - [Repository](https://github.com/FlowWeaver)
-- **AI 챗봇 기반 개인화 학습 지원 서비스, PersonaBook**
+- **PersonaBook | AI 챗봇 기반 개인화 학습 지원 서비스**
   - 사용자가 업로드한 교재(PDF)를 기반으로, 개인의 이해도에 맞춘 문제 생성, 개념 설명 등을 제공하는 AI 챗봇 기반 개인화 학습 지원 서비스
   - [Repository](https://github.com/PersonaBook)
-- **XML 기반 설정을 통해 Legacy 구조로 구현한 쇼핑몰, ThanksLab**
+- **ThanksRap | XML 기반 설정을 통해 Legacy 구조로 구현한 쇼핑몰**
   - Spring Boot의 자동 설정에 의존하지 않고, XML 기반으로 직접 설정하며 Spring Framework의 동작 원리를 탐구한 Legacy 구조의 프로젝트
   - [Repository](https://github.com/THANKSRAP)
-- **사용자들과 클릭 수로 경쟁하는 캐쥬얼 게임, ClickMeee**  
+- **ClickMeee | 사용자들과 클릭 수로 경쟁하는 캐쥬얼 게임**  
   - 다수의 사용자가 동시에 참여해 실시간으로 클릭 경쟁으로 랭킹을 겨루는 WebSocket 기반 캐주얼 웹 게임  
   - [Repository](https://github.com/ClickMeee)
 - **라즈베리파이와 카메라를 이용한 제스처 인식기**  
   - 제스처를 인식해 동작을 분류하는 라즈베리파이 기반 제스처 인식기
-- **스타트업 인재 매칭 플랫폼, 스매칭**  
+- **스매칭 | 스타트업 인재 매칭 플랫폼**  
   - 스타트업과 구직자를 연결하는 인재 매칭 플랫폼  
   - [Repository](https://github.com/WARA-United/Venture-Startup-Hackathon)
 - **사용자들과 웃음을 공유하는 저장소, SmileHub**  
   - 카메라를 통해 웃음을 인식하고 기록하며, 사용자들과 웃음을 공유하는 웹 애플리케이션 서비스
   - [Repository](https://github.com/MangoWafflee)
-- **오프라인의 감성과 온라인의 편리함을 결합한 패션 플랫폼, On&Off**  
+- **On&Off | 오프라인의 감성과 온라인의 편리함을 결합한 패션 플랫폼**  
   - 오프라인 의류 매장을 운영하는 소상공인의 온라인 진출을 지원하고, 고객이 온/오프라인의 장점을 모두 경험할 수 있도록 한 패션 플랫폼  
   - [Repository](https://github.com/TEAM-WARA/ON-OFF)
 - **오프라인 회원제 식료품점 데이터베이스 및 응용 프로그램**  
