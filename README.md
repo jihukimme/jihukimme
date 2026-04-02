@@ -58,7 +58,7 @@
 
 ## 💼 Projects
 
-- **FlowWeaver | 동적 워크플로우 자동화 플랫폼**
+- **FlowWeaver | 워크플로우 자동화 플랫폼**
   - AI 기반 자동화 트렌드에 맞추어 다양한 비즈니스 프로세스를 자동화할 수 있는 확장 가능한 워크플로우 관리 플랫폼
   - [Repository](https://github.com/FlowWeaver)
 - **PersonaBook | AI 챗봇 기반 개인화 학습 지원 서비스**
