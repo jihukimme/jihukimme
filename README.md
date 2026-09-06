@@ -1,63 +1,55 @@
-### 👋 Welcome to my GitHub ![](https://komarev.com/ghpvc/?username=jihukimme&label=Profile%20views&color=af4bf1&style=flat) 
+![Profile views](https://komarev.com/ghpvc/?username=jihukimme&label=Profile%20views&color=af4bf1&style=flat) 
 
 ---
 
-# 김지후 
+## Tech Stack
+
+### FrontEnd
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-000000?style=flat-square&logo=java&logoColor=white)
+
+### Language
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Framework
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=apache&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1A1A1A?style=flat-square&logo=chainlink&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+
+### Infra
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
+
+### OS
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+### Tools
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 
 ---
 
-## 🛠 Tech Stack
-
-### 🎨 FrontEnd
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Thymeleaf](https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
-![JSP](https://img.shields.io/badge/jsp-000000?style=for-the-badge&logo=java&logoColor=white)
-
-
-### 💻 Language
-![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 📚 Framework
-![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MyBatis](https://img.shields.io/badge/mybatis-000000?style=for-the-badge&logo=apache&logoColor=white)
-![LangChain](https://img.shields.io/badge/langchain-1A1A1A?style=for-the-badge&logo=chainlink&logoColor=white)
-
-### 🗄 Database
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🔍 Search Engine
-![Elasticsearch](https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
-### ☁️ Infra
-![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 📊 Monitoring
-![Grafana](https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Zabbix](https://img.shields.io/badge/zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
-
-### ⚙ Tools
-![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Slack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-
-### 🖥 Environment
-![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
----
-
-## 💼 Projects
+## Projects
 
 - **FlowWeaver | 워크플로우 자동화 플랫폼**
   - AI 기반 자동화 트렌드에 맞추어 다양한 비즈니스 프로세스를 자동화할 수 있는 확장 가능한 워크플로우 관리 플랫폼
@@ -92,9 +84,9 @@
 
 ---
 
-## 📜 Publications
+## Publications
 
-- **[한국정보기술학회 2024년도 하계종합학술대회](https://ki-it.or.kr/conference/2024)** - 소상공인을 위한 온/오프라인 통합 패션 플랫폼 구현  
+- **[한국정보기술학회 2024년도 하계종합학술대회](https://ki-it.or.kr/conference/2024)** - 소상공인을 위한 온/오프라인 통합 패션 플랫폼 구현
   - [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11825721)
 - **[대한전자공학회 2023년도 추계종합학술대회](https://conf.theieie.org/2023f/)** - 딥보이스를 이용한 보이스피싱의 대응방안을 위한 음성 주파수 분석  
   - [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11701410)
@@ -103,7 +95,7 @@
   
 ---
 
-## 🏆 Awards
+## Awards
 
 - **대경권 벤처스타트업 아카데미 해커톤 대회** - 장려상
   - 스타트업 인재 매칭 플랫폼 구현
@@ -112,29 +104,4 @@
 - **창의융합형 인재양성 공유·협업 페스티발 공모전 창업아이디어 부문** - 우수상(금상)
   - 소상공인을 위한 온/오프라인 통합 패션 플랫폼
  
----
 
-## 🖋 Blog
-
-- **https://velog.io/@jihukimme**
-
----
-
-## 📧 Contact
-
-- **jihu0210@naver.com**
-
----
-
-## 📊 GitHub Stats
-
-<div style="display: flex; flex-wrap: wrap;">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jihukimme&show_icons=true&theme=radical&cache_seconds=7200" alt="jihukimme's GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=jihukimme&layout=compact&theme=radical&cache_seconds=7200" alt="jihukimme's Top Languages" />
-</div>
-
----
-
-## 🏅Solved ac
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kjhoo)](https://solved.ac/kjhoo)
