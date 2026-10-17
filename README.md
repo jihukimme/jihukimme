@@ -1,4 +1,3 @@
-![Profile views](https://komarev.com/ghpvc/?username=jihukimme&label=Profile%20views&color=af4bf1&style=flat) 
 
 ---
 
