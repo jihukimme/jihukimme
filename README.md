@@ -54,11 +54,11 @@
 
 ## Projects
 
-- **FlowWeaver | 워크플로우 자동화 플랫폼**
-  - AI 기반 자동화 트렌드에 맞추어 다양한 비즈니스 프로세스를 자동화할 수 있는 확장 가능한 워크플로우 관리 플랫폼
+- **FlowWeaver | 워크플로우 관리 플랫폼**
+  - AI 기반 자동화 트렌드에 맞추어 다양한 비즈니스 프로세스를 자동화할 수 있는 워크플로우 관리 플랫폼
   - [Repository](https://github.com/FlowWeaver)
-- **PersonaBook | AI 챗봇 기반 개인화 학습 지원 서비스**
-  - 사용자가 업로드한 교재(PDF)를 기반으로, 개인의 이해도에 맞춘 문제 생성, 개념 설명 등을 제공하는 AI 챗봇 기반 개인화 학습 지원 서비스
+- **PersonaBook | AI 챗봇 기반 학습 지원 서비스**
+  - 사용자가 업로드한 교재(PDF)를 기반으로, 개인의 이해도에 맞춘 문제 생성, 개념 설명 등을 제공하는 AI 챗봇 기반 학습 지원 서비스
   - [Repository](https://github.com/PersonaBook)
 - **ThanksRap | XML 기반 설정을 통해 Legacy 구조로 구현한 쇼핑몰**
   - Spring Boot의 자동 설정에 의존하지 않고, XML 기반으로 직접 설정하며 Spring Framework의 동작 원리를 탐구한 Legacy 구조의 프로젝트
@@ -74,7 +74,7 @@
 - **SmileHub | 사용자들과 웃음을 공유하는 저장소**
   - 카메라를 통해 웃음을 인식하고 기록하며, 사용자들과 웃음을 공유하는 웹 애플리케이션 서비스
   - [Repository](https://github.com/MangoWafflee)
-- **On&Off | 오프라인의 감성과 온라인의 편리함을 결합한 패션 플랫폼**
+- **On&Off | 패션 플랫폼**
   - 오프라인 의류 매장을 운영하는 소상공인의 온라인 진출을 지원하고, 고객이 온/오프라인의 장점을 모두 경험할 수 있도록 한 패션 플랫폼
   - [Repository](https://github.com/TEAM-WARA/ON-OFF)
 - **오프라인 회원제 식료품점 데이터베이스 및 응용 프로그램**
